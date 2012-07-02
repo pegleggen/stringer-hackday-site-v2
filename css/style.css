@@ -1,0 +1,63 @@
+
+
+/* ===== Primary Styles ========================================================
+   Author: Tim Eaglestone
+   ========================================================================== */
+
+body {
+	padding-top:24px;
+}
+   
+article{
+	text-align:right;
+	font-family:courier, courier new, monospaced;
+}
+
+article p{
+	font-size:1.2em;
+	margin-bottom:20px;
+}
+
+.badge{
+	font-size:18px;
+	display:inline;
+}
+
+tr{
+	text-align:right;
+}
+
+article td{
+	text-align:right;
+}
+
+h1,h2{
+	margin-top:18px;
+	margin-bottom:22px;
+}
+
+.logo{
+	margin-bottom:24px;
+}
+
+.item{
+	text-align:center;
+	height:280px;
+}
+.carousel-caption{
+	font-family:arial, helvetica, sans;
+	text-align:left;
+	font-size:12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
